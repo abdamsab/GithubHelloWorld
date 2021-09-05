@@ -1,3 +1,5 @@
+#program to output Hello world
+print('Helo')
+print('Word')
 
-print('Hello')
-print('World')
+
