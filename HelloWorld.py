@@ -1,5 +1,5 @@
 #program to output Hello world
-print('Hello')
-print('World')
+print('Helo')
+print('Word')
 
 
