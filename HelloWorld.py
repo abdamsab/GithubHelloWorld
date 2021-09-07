@@ -1,5 +1,8 @@
 #program to output Hello world
-print('Helo')
-print('Word')
+s = 'help'
+print('Hello')
+print('World')
+
+print(s[1:3])
 
 
